@@ -1,0 +1,40 @@
+html{
+    font-size:32px;
+    font-family:"Open Sans", sans-serif;
+    background-color: violet;
+}
+
+body{
+    width:600px;
+    padding: 0px 60px 60px 60px;
+    border: 2px solid black;
+    background-color: aqua;
+    margin: 20px auto;
+    color:lightsalmon
+}
+
+h1{
+    font-size: 65px;
+    text-align:center;
+    margin:0 ;
+    padding: 0px;
+    /* background-color: brown; */
+}
+
+li{
+    font-size:23;
+    line-height:2;
+    letter-spacing: 1px;
+}
+
+p{
+    background-color:springgreen;
+    text-shadow: 2px 3px 5px coral; 
+}
+
+img{
+    display: block;
+    margin:auto;
+
+}
+
